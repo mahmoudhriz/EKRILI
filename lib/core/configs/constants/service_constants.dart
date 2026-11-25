@@ -1,4 +1,4 @@
 class ServiceConstants {
   static const String MAPBOX_TOKEN =
-      'pk.eyJ1IjoiZGF2aW5kZXIxNDM2IiwiYSI6ImNtNmh5bWpxaTAyeHgycXNoa3M5Mmg1N2gifQ.z2lT6pQZZntilXV90lz4aw';
+      'pk.eyJ1IjoibWFobW91ZGhhcml6MTk0IiwiYSI6ImNtd3dscjlibTAzYWwyeHNhbjMzY2FpOXkifQ.NdzJpsS8wFWONpltgHj2UA';
 }
